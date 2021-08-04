@@ -1,4 +1,4 @@
-## Olá eu sou a Kauane !
+## Olá meu nome é Kauane !
 
 
 - Sou desenvolvedora Android
